@@ -4,4 +4,4 @@
 ## Чек-лист и тест-кейсы
 
 - [Чек-лист (Google Sheets)](https://docs.google.com/spreadsheets/d/1LSmyHlZGCR0kUfBhj7vCvJeBw1h3GnfdUmKkL1uQgMs/edit?gid=1595243412#gid=1595243412)
-- [Тест-кейсы (PDF, Qase)](https://github.com/nikhileeva/web/blob/main/TestCases_Cart%2BOrder.pdf)
+- [Тест-кейсы (PDF, Qase)](https://github.com/nikhileeva/web/blob/main/Web%20App%20Testing.pdf)
