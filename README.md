@@ -15,6 +15,6 @@
 - **Rewrite Status (prod only):** force **403** for `demoshopping.ru`; other domains work normally.
 - **Map Remote (env switch):** `https://demoshopping.ru/*` → `https://qa.demoshopping.ru/*`.
 
-- **Video:** [Desktop (Google Drive)](https://drive.google.com/drive/u/0/my-drive) 
+- **Video:** [Desktop (Google Drive)](https://drive.google.com/file/d/1Z43XVxYxUFmCHAI4N9iCwVlcpfLjAP-R/view?usp=sharing) 
 
 
