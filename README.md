@@ -1,4 +1,4 @@
-# Web Application testing
+# Web Application Testing
 
 ## Artifacts
 - **Test Plan:** [Google Sheets](https://docs.google.com/spreadsheets/d/18Sy0gBUFcY_VxyVwmf29pFg8-IZw4F86RxDCtUiEk7g/edit?gid=0#gid=0)
@@ -11,8 +11,8 @@
 ## Charles Proxy Highlights
 
 ### Desktop (demoshopping.ru)
-- **Rewrite Body:** `GET /getCart`, `GET /getCartCount` → return `quantity/count = 500`.
-- **Rewrite Status (prod only):** force **403** for `demoshopping.ru`; other domains work normally.
+- **Rewrite Body:** `GET /getCart`: `quantity: 2` → `quantity: 500`return `quantity/count = 500`.
+- **Rewrite Status (prod only):** `200 OK` → `403 Forbidden` for `demoshopping.ru`; other domains work normally.
 - **Map Remote (env switch):** `https://demoshopping.ru/*` → `https://qa.demoshopping.ru/*`.
 
 - **Video:** [Desktop (Google Drive)](https://drive.google.com/file/d/1Z43XVxYxUFmCHAI4N9iCwVlcpfLjAP-R/view?usp=sharing) 
